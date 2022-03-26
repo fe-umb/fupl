@@ -15,8 +15,10 @@
 <h2 align="center"> how to run ▶️ </h2>
 <div align="center">
 <p align="center"> this version is already compiled and ready to use. </p>
-1 - open the cmd in the folder were the files are; <br>
-2 - execute using "grun fupl inicio Programa.txt". <br> <br>
+1 - download all files; <br>
+<img src="https://user-images.githubusercontent.com/31020871/160246670-176ca473-e877-493c-a699-7eb06aac93a3.jpg" /> <br>
+2 - open the cmd in the folder were the files are; <br>
+3 - execute using "grun fupl inicio Programa.txt". <br> <br>
 <img src="https://user-images.githubusercontent.com/31020871/160246150-27e39304-e219-499e-9d27-33ccbad1175b.jpg" /> <br>
 *you can change the "Programa.txt" file in order to test different structures. <br><br>
 <p> made with ♥ by fe umb </p>
