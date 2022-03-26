@@ -1,0 +1,29 @@
+inicio
+feumb_natural a;
+feumb_real b;
+feumb_natural c;
+feumb_letra d;
+
+a=10;
+
+entrada(d);
+
+fazer{ 
+b=5;
+}
+durante(2>5);
+
+enquanto(a>b){
+b=10;
+}
+
+se(b==5){
+a=11;
+}
+senao{
+a=5;
+}
+
+imprime(a);
+
+fim
