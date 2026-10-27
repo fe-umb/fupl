@@ -1,7 +1,7 @@
 <h2 align="center"> 💖 FUPL 💖 </h2>
-<p align="center"> My own programming language (FUPL - Fe Umb Programming Language) created with ANTLR. </p>
-<p align="center"> Thanks to my dear friends Erik, Guilherme, Matheus and Milena for contributing with this project. </p>
-<p align="center"> Thanks to my teacher Fernando Kakugawa (Universidade Anhembi Morumbi) for the support and for teaching everything I needed to know about ANTLR. </p>
+<p align="center"> My own programming language, FUPL (Fe Umb Programming Language), built with ANTLR. </p>
+<p align="center"> A big thank you to my dear friends Erik, Guilherme, Matheus, and Milena for their contributions to this project. </p>
+<p align="center"> Special thanks to my professor, Fernando Kakugawa (Universidade Anhembi Morumbi), for his support and for teaching me everything I needed to know about ANTLR. </p>
 <h2 align="center"> features 💻 </h2>
 <div align="center">
 ♡ variable types: <b>feumb_natural</b> (int) - <b>feumb_real</b> (double) - <b>feumb_letra (char);</b> <br>
